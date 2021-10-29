@@ -13,7 +13,7 @@ python+selenium+firefox。
 首先 Fork 此项目**顺便 Star 一下**，之后前往 Settings-Secrets 填写下列信息，注意需要大写。
 | NETID | PASSWORD | SEND_KEY             | RECURL                                             |
 | ----- | -------- | -------------------- | -------------------------------------------------- |
-| NETID | 密码     | [Server酱](sct.ftqq.com/sendkey)绑定微信，并获取SendKey | [第三方在线识别平台](http://fast.95man.com)获取api地址 |
+| NETID | 密码     | [Server酱](https://sct.ftqq.com/sendkey) 绑定微信，并获取SendKey用于微信通知申报情况| [第三方在线识别平台](http://fast.95man.com)获取api地址识别验证码 |
 
 
 
